@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://sklf.me</loc>
+        <loc>http://sklf.me</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://sklf.me/2017/03/18/hexo-theme-beantech/</loc>
+        <loc>http://sklf.me/2017/03/18/hexo-theme-beantech/</loc>
         <lastmod>2018-10-05T08:32:57.998Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -15,7 +15,7 @@
     </url>
 
     <url>
-        <loc>https://sklf.me/2018/10/05/hello-world-1/</loc>
+        <loc>http://sklf.me/2018/10/05/hello-world-1/</loc>
         <lastmod>2018-10-05T07:54:15.154Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -23,7 +23,7 @@
     </url>
 
     <url>
-        <loc>https://sklf.me/2018/10/05/hello-world/</loc>
+        <loc>http://sklf.me/2018/10/05/hello-world/</loc>
         <lastmod>2018-10-05T07:35:49.551Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
